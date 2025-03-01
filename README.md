@@ -51,8 +51,8 @@ Before running the project, ensure you have the following installed:
 ### Step 1: Install Python Dependencies
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/Meeehnaz/Customer-Support-AI-Agent.git)
-   cd [<repository-folder>](https://github.com/Meeehnaz/Customer-Support-AI-Agent.git)
+   git clone https://github.com/Meeehnaz/Customer-Support-AI-Agent.git
+   cd Customer-Support-AI-Agent
    ```
 2. Install the required Python libraries:
    ```bash
